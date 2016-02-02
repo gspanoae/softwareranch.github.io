@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Python resources"
+date:   2016-02-01 17:20:26 +0000
+categories: resources python
+---
+
+What are some good resources for learning Python ?
+
+*   [Code like a pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
