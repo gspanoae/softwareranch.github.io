@@ -7,7 +7,7 @@ categories: resources machine-learning
 
 I asked myself what are some good resources for learning machine learning. I found a couple on Udacity which seem good. There are also courses on statistics which explain the basics. I\`ll keep adding to these lists when i find more.
 
-The Udacity !Intro to Machine Learning course is really good, i am making my way through it at the moment and am enjoying it.
+The Udacity Intro to Machine Learning course is really good, i am making my way through it at the moment and am enjoying it.
 
 These courses:
 
