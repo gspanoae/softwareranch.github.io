@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an solution architect working in the oil and gas industry. In my free time I code and go for long runs.
+I am a solution architect working in the oil and gas industry. In my free time I code and go for long runs.
 
 This site was built with Jekyll and is hosted on github.
 
