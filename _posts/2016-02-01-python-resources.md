@@ -12,4 +12,4 @@ What are some good resources for learning Python ?
 *   [Code School Try Python Course](https://www.codeschool.com/courses/try-python)
 
 Interesting Libraries:
-*   [Asropy Python for Astronomy](http://www.astropy.org/)
+*   [Astropy Python for Astronomy](http://www.astropy.org/)
