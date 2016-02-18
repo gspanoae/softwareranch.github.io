@@ -15,16 +15,16 @@ Asimov Debates with Neil DeGrasse Tyson:
 
 
 ASU Origins with Lawrence Krauss:
-https://www.youtube.com/watch?v=_J4QPz52Sfo
+* [ASU Origins Youtube](https://www.youtube.com/watch?v=_J4QPz52Sfo)
 
 World Science Festival:
-http://www.worldsciencefestival.com/
+* [World Science Festival](http://www.worldsciencefestival.com/)
 
 World science university: 
-I did the ones with Inflationary  Cosmology, Dark side of the universe, Hystory and Mysteries of the universe those were really good.
-http://www.worldscienceu.com/
-http://www.worldscienceu.com/courses/master_class
+I have completed the courses on Inflationary  Cosmology, Dark side of the universe, Hystory and Mysteries of the universe those were really good.
+* [World Science University](http://www.worldscienceu.com/)
+* [World Science U Master Classes](http://www.worldscienceu.com/courses/master_class)
 
-Startalk Podcast and TV show on national geographic
-http://www.startalkradio.net/
+[Startalk Podcast](http://www.startalkradio.net/) and TV show on national geographic
+
 
