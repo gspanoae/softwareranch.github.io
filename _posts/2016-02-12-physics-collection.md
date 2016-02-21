@@ -13,6 +13,7 @@ Asimov Debates with Neil DeGrasse Tyson:
 
 ASU Origins with Lawrence Krauss:
 *	[ASU Origins Youtube](https://www.youtube.com/watch?v=_J4QPz52Sfo)
+*	[Einstein`s Legacy](https://www.youtube.com/watch?v=cYWH34v2TnM)
 
 World Science Festival:
 *	[World Science Festival](http://www.worldsciencefestival.com/)
