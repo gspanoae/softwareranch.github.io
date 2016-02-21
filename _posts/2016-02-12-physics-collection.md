@@ -12,7 +12,7 @@ Asimov Debates with Neil DeGrasse Tyson:
 *	[Asimov debate water,water,water](https://www.youtube.com/watch?v=FSF79uS3t04)
 
 ASU Origins with Lawrence Krauss:
-*	[ASU Origins Youtube](https://www.youtube.com/watch?v=_J4QPz52Sfo)
+*	[The Great Debate: THE STORYTELLING OF SCIENCE](https://www.youtube.com/watch?v=_J4QPz52Sfo)
 *	[Einstein`s Legacy](https://www.youtube.com/watch?v=cYWH34v2TnM)
 
 World Science Festival:
