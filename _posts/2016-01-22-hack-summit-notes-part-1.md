@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Physics Collection"
+title:  "Hack Summit Part 1: Orion"
 date:   2016-03-02 17:20:26 +0000
 categories: notes
 ---
@@ -19,7 +19,7 @@ Orion and his mates **built Heroku in order to solve the problem of Devops for e
 The current state of the union is that cloud is great but it is making the internet very centralised. Also the current market
 is very competitive everyone has their own cloud solutions which they are pushing, so he wouldn`t do cloud at this point.
 He **recommends finding people or markets which are underserved and solving a problem for them**. Then he went on to present a vision of what it would look like if we tried to decentralise the internet again. Which also means having a simple backend architecture rather then the complicated backends that the current cloud servers have. For security it would mean that you would bring your security along with you, like you do in real life with your passport or drivers licence. A lot of new startups have emerged who try to figure out what this would look like and try to do this based on block-chain technology.
-\(I`ll insert some examples here)\
+(I`ll insert some examples here)
 For example blockchain db, where you would store data in the open. A potential issue that this raises is monetisation, who would pay for this? At the moment we are paying for it by ignoring does ads google and everyone tries to spam us with in the corner of the browser, how would this work in a decentralized web?
 
 Then he goes on to explain how he got started with all this. They did a consultancy to pay for their passion project, but then started hiring people to do the work so they would have time for their passion project. That backfired because they ended up running a business with no time for their own projects. So it`s better just to focus on one thing then trying to split yourself between multiple projects.
