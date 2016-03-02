@@ -25,6 +25,7 @@ Orion and his mates **built Heroku in order to solve the problem of Devops for e
 The current state of the union is that cloud is great but it is making the internet very centralised. Also the current market
 is very competitive everyone has their own cloud solutions which they are pushing, so he wouldn't do cloud at this point.
 He **recommends finding people or markets which are underserved and solving a problem for them**.
+
 Then he went on to present a vision of what it would look like if we tried to decentralise the internet again. 
 Which also means having a simple backend architecture rather then the complicated backends that the current cloud servers have. 
 For security it would mean that you would bring your security along with you, like you do in real life with your passport or drivers licence.
