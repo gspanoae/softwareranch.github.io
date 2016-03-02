@@ -1,15 +1,23 @@
 ---
 layout: post
-title:  "Hack Summit Part 1: Orion"
+title:  "Hack Summit 2016 (Part 1): Orion"
 date:   2016-03-02 17:20:26 +0000
 categories: notes
 ---
 
-# Hack Summit 2016 (Part 1)
-The hack.summit was last week and it was an amazing conference. So many great speakers and great stories shared. It was one of the largest online conferences with over 25k attendees, the chat rooms were buzzing as you can imagine when so many start talking. I didn`t get to see all the sessions live, I am hoping to catch up on the ones i missed soon. These are my notes from some of the sessions I attended.
+# Hack Summit 2016
+[Visit the hack summit](https://hacksummit.org/)
+
+The hack.summit was last week and it was an amazing conference. So many great speakers and great stories shared. 
+It was one of the largest online conferences with over 25k attendees, the chat rooms were buzzing as you can imagine when so many start talking. 
+I didn`t get to see all the sessions live, I am hoping to catch up on the ones i missed soon. 
+These are my notes from some of the sessions I attended, these should only be considered as a reference and not a full account of what was presented, you should go and watch the videos before continuing.
+Contributions are welcome to theses
+
 
 ## Orion - Founder Heroku
 [@orionspeaks](https://twitter.com/orionspeaks)
+[Watch Orions talk](https://www.crowdcast.io/e/hacksummit-2016/3)
 
 He started Heroku in 2007 when the "Cloud" was a new thing and everyone was just getting the hang of it.
 Amazon launched their cloud earlier (AWS). The new technology which enabled the cloud was virtualisation and at that time it was something new. Docker wasn`t invented yet so there was some work to do to get things up and running.
