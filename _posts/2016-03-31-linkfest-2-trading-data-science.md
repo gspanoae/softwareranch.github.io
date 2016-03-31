@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linkfest #2 - Data Science and Trading"
-date:   2016-03-31 17:20:26 +0000
+date:   2016-03-31 08:20:26 +0000
 categories: resources data-science trading
 ---
 
