@@ -12,6 +12,7 @@ Books, Courses, Conferences:
 
 * [Code like a pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [Learn Python the hard way](http://learnpythonthehardway.org/book/)
+* [Hitchhiker`s guide to Python](http://docs.python-guide.org/en/latest/)
 * [Code School Try Python Course](https://www.codeschool.com/courses/try-python)
 * [Pydata 2016 Conference on Youtube](https://www.youtube.com/playlist?list=PLGVZCDnMOq0rzDLHi5WxWmN5vueHU5Ar7)
 * [PythonProgramming.net](https://pythonprogramming.net/)
