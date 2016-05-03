@@ -34,7 +34,7 @@ The last month I came accross some more data science and Python resources, these
 * [Cookiecutter for data science](http://drivendata.github.io/cookiecutter-data-science/) or how to organise a data science project
 * [Panama papers dataset](https://github.com/amaboura/panama-papers-dataset-2016)
 
-I haven't read this yet but it's on my bucket list I've ordered it from amazon, can't wait for it to arrive. The cover is a bit strange but believe this is a classic book.
+I haven't read this yet but it's on my bucket list I've ordered it from amazon, can't wait for it to arrive. The cover is a bit strange but believe me this is a classic book.
 
 <a rel="nofollow" href="http://www.amazon.co.uk/gp/product/0140124993/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0140124993&linkCode=as2&tag=explormissio-21"><img border="0" src="http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0140124993&Format=_SL160_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=explormissio-21" ></a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=explormissio-21&l=as2&o=2&a=0140124993" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
