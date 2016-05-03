@@ -11,7 +11,7 @@ email: atti.balazs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A personal website where I share my ideas and collect useful resources.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://attibalazs.github.com" # the base hostname & protocol for your site
 twitter_username: attibalazs
 github_username:  attibalazs
 
