@@ -10,25 +10,25 @@ The last month I came accross some more data science and Python resources, these
 * [Data science masters](http://datasciencemasters.org/) a great collection of courses, books and videos on data science.
 * [Learning Python for data science](https://pythontips.com/2016/02/27/learning-python-for-data-science/)
 
-####Periodical newsletters
+#### News
 
 * [Data Tau](http://www.datatau.com/news) hacker news for data science
 * [Data Elixir](http://dataelixir.com/) a weekly curated newsletter about data, have been a fan of this for a long time
 
-####Courses
+#### Courses
 
 * [Harvard Course on Data Science](http://cm.dce.harvard.edu/2016/01/14328/L01/index_H264SingleHighBandwidth-16x9.shtml)
 * [Probabilistic graphical models from Stanford](https://class.coursera.org/pgm/lecture)
 * [Udacity Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 
-####Blog Posts
+#### Blog Posts
 
 * [England and Wales house prices](https://jasmcole.com/2016/04/17/england-and-wales-house-prices/)
 * [Image processing with Python](http://blog.iconfinder.com/detecting-duplicate-images-using-python/)
 * [US public data visualisations](http://datausa.io/)
 * [Probabilistic Programming for Non-Statisticians](http://blog.quantopian.com/probabilistic-programming-for-non-statisticians/)
 
-####Libraries
+#### Libraries
 
 * [Quantitative Economics](http://quant-econ.net/index.html)
 * [Cookiecutter for data science](http://drivendata.github.io/cookiecutter-data-science/) or how to organise a data science project
