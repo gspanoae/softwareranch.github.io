@@ -12,17 +12,24 @@ Mostly we would talk nonsense but we would always feel inspired by the great phy
 The book really helped to put everything in order in my mind, it structured the events that took place at the turn of the 
 century which lead to so many discoveries, it was a golden age of physics.
 
-### Max Planck and the quanta
+### Max Planck and the quanta - 1894
+
 [Planck](https://upload.wikimedia.org/wikipedia/commons/4/42/Max_Planck_%28Nobel_1918%29.jpg)
 Electric companies wanted a better light bulb so they asked 
 Planck to look into it, if the amount of light can be increased while the amount of heat produced can be decreased.
-The phenomenon was known as black body radiation,Planck started looking at it and he discovered something amazing. 
-That electromagnetic energy is released in discrete units which he called quanta. 
+The phenomenon was known as black body radiation, Planck started looking at it and he discovered something amazing:
+*Electromagnetic energy can only be released in discrete units* he called these units quanta, discrete packets of energy. 
 He also formulated an equation for all this E (Energy) = h (Planck`s constant)*V(nu, the frequency of the radiation)
+Planck was relying on inspiration from Ludwig Boltzmans theory on entropy, 
+which was a statistical reinterpretation of the second law of thermodynamics.
+
 At the turn of the century the general opinion on physics was that there is nothing left to discover, 
 that everything was known about nature and all that remained is to refine
 the measurements so they are more precise. 
 Planck with his new postulate kicked the door open for new discoveries to be made and shook up the status quo.
+Although he opened the door he failed to grasp the meaning of the quantization of energy, 
+he saw it as formality which helped him explain experimental data.
+
 
 ### Einsteins theory of relativity and the quantization of lighty
 ### Bohrs rise expands Rutherfords atomic model and applies the quanta to the atom
