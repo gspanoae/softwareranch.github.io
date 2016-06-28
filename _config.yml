@@ -16,4 +16,6 @@ twitter_username:
 github_username:  softwareranch
 
 # Build settings
-markdown: kramdown
+markdown: kramdown #for details http://kramdown.gettalong.org/syntax.html
+include: ["_pages"] #see http://damonbauer.me/organizing-jekyll-pages/ for more details
+permalink: /:title/ #pattern of keeping dates out of URLs; This will make your site’s URLs succinct and easy to read
