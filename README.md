@@ -9,6 +9,7 @@ The articles and source code on this project are open source and can be freely u
 * Make sure you are using the latest version of Jekyll. Check Jekyll prerequisites at: https://jekyllrb.com/docs/installation/#requirements
 + Clone this repo
 - Start Jekyll server
+
     $ jekyll serve
     # => A development server will run at http://127.0.0.1:4000/
     # Auto-regeneration: enabled. Use `--no-watch` to disable.
