@@ -3,6 +3,7 @@ layout: post
 title:  "What are some good machine learning resources?"
 date:   2016-01-22 17:20:26 +0000
 categories: resources machine-learning
+author: atti
 ---
 
 I asked myself what are some good resources for learning machine learning. I found a couple on Udacity which seem good. There are also courses on statistics which explain the basics. I\`ll keep adding to these lists when i find more.

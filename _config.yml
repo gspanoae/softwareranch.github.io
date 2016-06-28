@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: My Exploratory Missions
-email: atti.balazs@gmail.com
+title: Software Ranch
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  A personal website where I share my ideas and collect useful resources.
+  A website where we share our thoughts about technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://attibalazs.github.com" # the base hostname & protocol for your site
-twitter_username: attibalazs
-github_username:  attibalazs
+url: "http://softwareranch.github.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  softwareranch
 
 # Build settings
 markdown: kramdown
