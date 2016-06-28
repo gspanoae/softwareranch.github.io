@@ -3,6 +3,7 @@ layout: post
 title:  "Hack Summit 2016 (Part 1): Orion"
 date:   2016-03-02 17:20:26 +0000
 categories: notes
+author: atti
 ---
 
 # Hack Summit 2016

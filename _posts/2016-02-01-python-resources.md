@@ -3,6 +3,7 @@ layout: post
 title:  "Python resources"
 date:   2016-02-01 17:20:26 +0000
 categories: resources python
+author: atti
 ---
 
 What are some good resources for learning Python ?

@@ -3,6 +3,7 @@ layout: post
 title:  "Linkfest #3 - More Data Science"
 date:   2016-05-03 08:20:26 +0000
 categories: resources data-science
+author: atti
 ---
 
 The last month I came accross some more data science and Python resources, these are my latest discoveries on the web.

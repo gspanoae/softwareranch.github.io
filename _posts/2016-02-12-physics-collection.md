@@ -3,6 +3,7 @@ layout: post
 title:  "Physics Collection"
 date:   2016-02-12 17:20:26 +0000
 categories: resources physics
+author: atti
 ---
 
 This is a collection of talks and resources related to physics i found interesting.
