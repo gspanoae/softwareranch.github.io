@@ -10,9 +10,9 @@ The articles and source code on this project are open source and can be freely u
 + Clone this repo
 - Start Jekyll server
 
-    $ jekyll serve
+    `$ jekyll serve
     # => A development server will run at http://127.0.0.1:4000/
-    # Auto-regeneration: enabled. Use `--no-watch` to disable.
+    # Auto-regeneration: enabled. Use --no-watch to disable.`
 
 
 ## Technology Used
