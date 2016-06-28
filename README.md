@@ -4,23 +4,29 @@ The articles and source code on this project are open source and can be freely u
 
 ## Development Setup
 
-1) Make sure you are using the latest version of Jekyll. Check Jekyll prerequisites at: <https://jekyllrb.com/docs/installation/#requirements>
+1) Check Jekyll prerequisites at: <https://jekyllrb.com/docs/installation/#requirements>
 
-2) Install GitHub Pages Ruby Gem (<https://github.com/github/pages-gem>):
+2) Install Jekyll (<https://jekyllrb.com>): 
+
+```shell
+    $ gem install jekyll
+```
+
+3) Install GitHub-Pages (<https://github.com/github/pages-gem>):
     
 ```shell
     $ gem install github-pages
 ```
 
-3) Install Rouge Gem (<https://github.com/jneen/rouge>):
+4) Install Rouge (<https://github.com/jneen/rouge>):
     
 ```shell
     $ gem install rouge
 ```
 
-4) Clone this repo
+5) Clone this repo
 
-5) Start Jekyll server
+6) Start Jekyll server
     
 ```shell 
     $ jekyll serve
@@ -32,7 +38,7 @@ The articles and source code on this project are open source and can be freely u
 
 - [Jekyll](http://jekyllrb.com): A simple, blog-aware, static site generator for personal, project, or organization sites.
 - [GitHub Pages Ruby Gem](https://github.com/github/pages-gem): A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages.
-- [Rouge](http://rouge.jneen.net/) Extendable code highlighter written in pure Ruby. Default syntax highlighter for Jekyll.
+- [Rouge](http://rouge.jneen.net/): Extendable code highlighter written in pure Ruby. Default syntax highlighter for Jekyll.
 - [GitHub Pages](https://pages.github.com): GiHub websites for you and your projects.
 - [Sass](http://sass-lang.com/): Professional, mature, and stable CSS extension language.
 
