@@ -38,6 +38,19 @@ The articles and source code on this project are open source and can be freely u
 
 - [Jekyll](http://jekyllrb.com): A simple, blog-aware, static site generator for personal, project, or organization sites.
 - [GitHub Pages Ruby Gem](https://github.com/github/pages-gem): A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages.
+
+```shell
+    # Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed. 
+    $ gem install bundler
+    # Bundler ensures that the gems you need are present in development, staging, and production.
+    $ bundle install
+    # Update the gems specified (all gems, if none are specified), ignoring the previously installed gems specified in the Gemfile.lock. 
+    # In general, you should use bundle install to install the same exact gems and versions across machines.
+    $ bundle update github-pages
+    # Checks your GitHub Pages site for common DNS configuration issues
+    $ github-pages health-check
+```
+
 - [Rouge](http://rouge.jneen.net/): Extendable code highlighter written in pure Ruby. Default syntax highlighter for Jekyll.
 - [GitHub Pages](https://pages.github.com): GiHub websites for you and your projects.
 - [Sass](http://sass-lang.com/): Professional, mature, and stable CSS extension language.
