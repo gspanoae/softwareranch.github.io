@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "A brief introduction to NLP Topic Modelling"
-date:   2016-06-29 21:00:26 +0000
-categories: NLP
+date:   2016-06-29 20:00:26 +0000
+categories: nlp
 author: atti
 ---
-
-### A brief introduction to NLP Topic Modelling
 
 What if you wanted to categorize a large number of documents automatically. Maybe there are hidden (latent) features which can be used to find correlations between documents. Which features should be used for this exercise, the title, the author the body of the document?
 
@@ -21,26 +19,31 @@ There are some caveats some caveats related to the inputs for LDA and it's perfo
 ### Resources for Topic Modelling and LDA
 
 #### Videos
+
 * [LDA Topic Modelling](https://www.youtube.com/watch?v=ePUAZ8RG-3w)
 * [Understanding Probabilistic Topic Models - LDA - Pydata NYC 2015](https://www.youtube.com/watch?v=_R66X_udxZQ)
 
 #### Papers / Blogs
-Hannah wallach ideas for lda
-Hierarchical LDA process, conda/github
 
 * David Blei - [Probabilistic topic models](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
 * Edwin Chen - [Introduction to LDA](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
 * Hannah Wallach - [Ideas for LDA](http://dirichlet.net/pdf/hannah14topic.pdf)
-* More Publications (Here)[http://dirichlet.net/publications/]
+* Visualising LDA - [NLP Stanford](http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf)
+* Latent Dirilecht allocation (LDA) paper [AI Stanford](http://ai.stanford.edu/~ang/papers/jair03-lda.pdf)
+* Gensim topic modelling [tutorials](http://radimrehurek.com/gensim/tutorial.html)
+* [LDA with Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
+* Topic Modelling and Text Analysis for the Humanities [DARIAH-DE](https://de.dariah.eu/tatom/)
+* Allen Riddel`s [Blog](https://ariddell.org/wustl2012.html)
+* .. and many more here (Here)[http://dirichlet.net/publications/]
 
 #### Libraries
 
 * [Gensim](http://radimrehurek.com/gensim/)
 * [Sklearn LatentDirichletAllocation](http://scikit-learn.org/stable/auto_examples/applications/topics_extraction_with_nmf_lda.html#example-applications-topics-extraction-with-nmf-lda-py)
-* Lda package by Allen Riddel - [LDA](https://ariddell.org/wustl2012.html)
+* Lda package by Allen Riddel - [LDA](https://github.com/ariddell/lda)
 * Ben Mabey visualisation - [PyLdaVis](https://github.com/bmabey/pyLDAvis)
 
-
+Hope you enjoyed this post, there is a lot to take in with this approach. Have you come across this approach, what was your experience with it, leave us your thoughts below.
 
 
 
