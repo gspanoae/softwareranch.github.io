@@ -32,6 +32,8 @@ It's very resource intensive although there are some good packages out there tha
 The inputs are also tricky to get right, you will probably spend some time getting the features ready and also you have to decide how many categories you want. 
 It will be an iterative process until you find the sweet spot which gives you the best categories and topics for your documents.
 
+See below for more details about how LDA works and how to implement it.
+
 ### Resources for Topic Modelling and LDA
 
 #### Videos
