@@ -40,13 +40,21 @@ The articles and source code on this project are open source and can be freely u
 - [GitHub Pages Ruby Gem](https://github.com/github/pages-gem): A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages.
 
 ```shell
+    # Bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages.
+    # Note, you can also pass the --gemfile flag to get the dependencies listed in a valid Gemfile dependency format. 
+    # You can also see a list of the live dependency versions at pages.github.com/versions.
+    $ github-pages versions
+    
     # Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed. 
     $ gem install bundler
+    
     # Bundler ensures that the gems you need are present in development, staging, and production.
     $ bundle install
+    
     # Update the gems specified (all gems, if none are specified), ignoring the previously installed gems specified in the Gemfile.lock. 
     # In general, you should use bundle install to install the same exact gems and versions across machines.
     $ bundle update github-pages
+    
     # Checks your GitHub Pages site for common DNS configuration issues
     $ github-pages health-check
 ```
