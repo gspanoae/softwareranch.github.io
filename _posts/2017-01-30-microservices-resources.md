@@ -8,6 +8,14 @@ author: gabi
 
 # What is Microservices architecture?
 
+#### **Articles**
+* [Open Group White Paper](https://www2.opengroup.org/ogsys/catalog/W169)
+* [Microservices by Martin Fowler](https://martinfowler.com/articles/microservices.html)
+* [Pattern: Microservice Architecture](https://martinfowler.com/articles/microservices.html)
+
+#### **Videos**
+* [YOW! Nights March 2016 with Martin Fowler](https://www.youtube.com/watch?v=Irlw-LGIJO4)
+
 # Which are the design principles?
 
 ## High cohesion
@@ -35,5 +43,7 @@ author: gabi
 ## Automation CI and CD Tools
 
 # What technologies can help achieving?
+
+# Microservice Governance
 
 # Greenfield and Transition strategies
