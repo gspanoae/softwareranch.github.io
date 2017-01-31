@@ -23,11 +23,18 @@ published: true
 
 # Which are the design principles?
 Each architectural style is nothing else than a set key principles which will shape the landscape of your technical solution, and Microservices architecture is no exceltion:
--**Cohesion and Autonomy**
--**Business domain centric**
--**Resilience**
--**Centralized logging and monitoring**
--**Automation tools**
+
+- **Cohesion and Autonomy**
+
+- **Business domain centric**
+
+- **Resilience**
+
+- **Centralized logging and monitoring**
+
+- **Automation tools**
+
+
 
 The next sections will provide more details and resources around these key aspects. 
 
