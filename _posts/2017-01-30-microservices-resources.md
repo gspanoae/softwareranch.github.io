@@ -37,8 +37,12 @@ In other words each Micro-Service will need to do a well define job, support a c
 
 > "A class should have only one reason to change", Robert C. Martin
 
+Each microservice will have a clear responsible team. To make future changes transparent we could use the  [semantic](http://semver.org/){:target="_blank"} versioning strategy.
+
 #### **Articles**
 * [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle){:target="_blank"}
+* [Loose coupling definition](http://searchnetworking.techtarget.com/definition/loose-coupling){:target="_blank"}
+* [Semantic Versioning 2.0.0](http://semver.org/){:target="_blank"}
 
 ## Business domain centric
 Design your microservice in line with relevant business use cases and keep clear boundaries in your solution. Take action and fix any overlaps, split further or join two if that is necessary. 
