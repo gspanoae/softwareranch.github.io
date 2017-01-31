@@ -23,16 +23,30 @@ published: true
 * [YOW! Nights March 2016 with Martin Fowler](https://www.youtube.com/watch?v=Irlw-LGIJO4){:target="_blank"}
 
 # Which are the design principles?
-Each architectural style is nothing else than a set key principles which will shape the landscape of your technical solution.
+Each architectural style is nothing else than a set key principles which will shape the landscape of your technical solution, and Microservices architecture is no exceltion:
+-**Cohesion and Autonomy**
+-**Business domain centric**
+-**Resilience**
+-**Centralized logging and monitoring**
+-**Automation tools**
 
-## Cohesion and Autonomy
-In other words each Micro-Service will need to do a well define job, support a core purpose in an autonomous way, basically will validate the Single Responsibility Principle from OOP ("A class should have only one reason to change").
+The next sections will provide more details and resources around these key aspects. 
+
+## Cohesion and Autonomy(loosely coupled, ownership and versioning)
+In other words each Micro-Service will need to do a well define job, support a core purpose in an autonomous way, basically will validate the Single Responsibility Principle: 
+> A class should have only one reason to change
+Robert C. Martin
+
+#### **Articles**
+* [](https://en.wikipedia.org/wiki/Single_responsibility_principle){:target="_blank"}
 
 ## Business domain centric
+Design your microservice in line with relevant business use cases and keep clear boundaries in your solution. Take action and fix any overlaps, split further or join two if that is necessary. 
+
+#### **Articles**
+* [Domain Driven Design for Services Architecture](https://www.thoughtworks.com/insights/blog/domain-driven-design-services-architecture){:target="_blank"}
 
 ## Resilience
-
-## Loosely Coupled, ownership and versioning
 
 ## Centralized logging and monitoring
 
@@ -55,6 +69,3 @@ In other words each Micro-Service will need to do a well define job, support a c
 # Microservice Governance
 
 # Greenfield and Transition strategies
-
-
-
