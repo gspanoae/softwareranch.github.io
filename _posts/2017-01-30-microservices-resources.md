@@ -23,8 +23,10 @@ published: true
 * [YOW! Nights March 2016 with Martin Fowler](https://www.youtube.com/watch?v=Irlw-LGIJO4){:target="_blank"}
 
 # Which are the design principles?
+Each architectural style is nothing else than a set key principles which will shape the landscape of your technical solution.
 
-## High cohesion
+## Cohesion and Autonomy
+In other words each Micro-Service will need to do a well define job, support a core purpose in an autonomous way, basically will validate the Single Responsibility Principle from OOP ("A class should have only one reason to change").
 
 ## Business domain centric
 
@@ -53,3 +55,6 @@ published: true
 # Microservice Governance
 
 # Greenfield and Transition strategies
+
+
+
