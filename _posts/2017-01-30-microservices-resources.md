@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Microservices resources"
-date:   2017-01-30 22:00:00 +0000
+title: Microservices resources
+date: '2017-01-30 22:00:00 +0000'
 categories: resources Microservices
 author: gabi
+published: true
 ---
 
 **work-in-progress**
@@ -11,8 +12,7 @@ author: gabi
 # What is Microservices architecture?
 
 > In short, the microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are built around business capabilities and independently deployable by fully automated deployment machinery. There is a bare minimum of centralized management of these services, which may be written in different programming languages and use different data storage technologies.
-
-> [From James Lewis and Martin Fowler](https://martinfowler.com/articles/microservices.html){:target="_blank"}
+**[From James Lewis and Martin Fowler](https://martinfowler.com/articles/microservices.html){:target="_blank"}**
 
 #### **Articles**
 * [Open Group White Paper](https://www2.opengroup.org/ogsys/catalog/W169){:target="_blank"}
