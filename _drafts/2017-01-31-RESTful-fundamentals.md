@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
+
 Environments concerns : 
 - Network reliability 
 - Latency 
@@ -46,7 +48,7 @@ Uniform Interface
 	- Hypermedia!!! (main difference between REST and RPC)
 
 
-Design REST APIs:
+Design REST APIs (Services):
 	1) List requirements
 	2) Identify state transitions
 		- solution and resource state
@@ -60,5 +62,6 @@ Design REST APIs:
 
 Read about Mapping to base formats, representation format and media type
 
-
-		
+Design REST APIs (Clients):
+	- Review media types (documentation and samples, request a test resource)
+	- 
